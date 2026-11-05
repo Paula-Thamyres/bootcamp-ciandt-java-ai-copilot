@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" width="1200" height="170" role="img" aria-labelledby="rodape-title">
+  <title id="rodape-title">Paula Femina · github.com/Paula-Thamyres</title>
+  <rect width="1200" height="170" fill="#FAB9FF"/>
+  <circle cx="20" cy="-10" r="90" fill="#FA5A50"/>
+  <circle cx="1170" cy="190" r="110" fill="#690037"/>
+  <path d="M880 170 A70 70 0 0 1 1020 170 Z" fill="#FA5A50"/>
+  <text x="600" y="84" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="44" fill="#690037">Paula Femina</text>
+  <text x="600" y="124" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#690037">github.com/Paula-Thamyres</text>
+</svg>

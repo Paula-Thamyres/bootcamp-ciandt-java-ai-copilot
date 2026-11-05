@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-labelledby="progresso-title">
+  <title id="progresso-title">Progresso do bootcamp: desafio 01 em andamento e desafio 02 concluído</title>
+  <!-- Cada bloco é um desafio, na ordem de cores: lilás, laranja, coral, magenta, vinho claro, vinho.
+       Em andamento: metade preenchida. Concluído: bloco inteiro preenchido (largura 186). -->
+  <g stroke="#8b949e" stroke-opacity=".5" stroke-width="2">
+    <rect x="1" y="7" width="186" height="20" rx="7" fill="#FAB9FF" fill-opacity=".4"/>
+    <rect x="203.4" y="7" width="186" height="20" rx="7" fill="#FF9A3C" fill-opacity=".4"/>
+    <rect x="405.8" y="7" width="186" height="20" rx="7" fill="#FA5A50" fill-opacity=".4"/>
+    <rect x="608.2" y="7" width="186" height="20" rx="7" fill="#C24A7C" fill-opacity=".4"/>
+    <rect x="810.6" y="7" width="186" height="20" rx="7" fill="#8F1B55" fill-opacity=".4"/>
+    <rect x="1013" y="7" width="186" height="20" rx="7" fill="#690037" fill-opacity=".4"/>
+  </g>
+  <rect x="1" y="7" width="93" height="20" rx="7" fill="#FAB9FF"/>
+  <rect x="203.4" y="7" width="186" height="20" rx="7" fill="#FF9A3C"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e" text-anchor="middle">
+    <text x="94" y="54">01</text>
+    <text x="296.4" y="54">02</text>
+    <text x="498.8" y="54">03</text>
+    <text x="701.2" y="54">04</text>
+    <text x="903.6" y="54">05</text>
+    <text x="1106" y="54">06</text>
+  </g>
+</svg>

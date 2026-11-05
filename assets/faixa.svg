@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12" role="img" aria-label="Faixa nas cores da CI&amp;T">
+  <rect x="0" width="200" height="12" fill="#FAB9FF"/>
+  <rect x="200" width="200" height="12" fill="#FA5A50"/>
+  <rect x="400" width="200" height="12" fill="#690037"/>
+  <rect x="600" width="200" height="12" fill="#690037"/>
+  <rect x="800" width="200" height="12" fill="#FA5A50"/>
+  <rect x="1000" width="200" height="12" fill="#FAB9FF"/>
+</svg>

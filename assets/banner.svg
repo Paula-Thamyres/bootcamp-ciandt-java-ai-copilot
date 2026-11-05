@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="banner-title">
+  <title id="banner-title">Bootcamp CI&amp;T · Java AI Copilot</title>
+  <rect width="1200" height="240" fill="#FAB9FF"/>
+  <circle cx="1110" cy="-10" r="140" fill="#690037"/>
+  <circle cx="10" cy="262" r="90" fill="#FA5A50"/>
+  <path d="M770 240 A88 88 0 0 1 946 240 Z" fill="#FA5A50"/>
+  <text x="80" y="112" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="64" fill="#690037">Bootcamp CI&amp;T</text>
+  <text x="80" y="170" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" fill="#690037">Java AI Copilot</text>
+</svg>

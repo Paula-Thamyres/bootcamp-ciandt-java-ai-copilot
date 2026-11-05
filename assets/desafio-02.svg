@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-labelledby="d02-title">
+  <title id="d02-title">Desafio 02 · Portal Divisível por 3</title>
+  <rect width="1200" height="150" fill="#FF9A3C"/>
+  <circle cx="1110" cy="-10" r="110" fill="#690037"/>
+  <circle cx="10" cy="170" r="70" fill="#FAB9FF"/>
+  <path d="M770 150 A70 70 0 0 1 910 150 Z" fill="#FAB9FF"/>
+  <text x="80" y="78" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="52" fill="#690037">Desafio 02</text>
+  <text x="80" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#690037">Portal Divisível por 3</text>
+</svg>
